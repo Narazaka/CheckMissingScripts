@@ -4,6 +4,10 @@ Find Missing Scripts in the current scene.
 
 ## Install
 
+### OpenUPM
+
+see [OpenUPM page](https://openupm.com/packages/net.narazaka.unity.missing-scripts/)
+
 ### VRChat Creaters Companion (VCC)
 
 1. Press "Add to VCC" on https://vpm.narazaka.net/ to add Narazaka's repository to VCC.
