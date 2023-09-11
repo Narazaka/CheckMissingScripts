@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.unity.missing-scripts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "displayName": "Check Missing Scripts",
   "description": "Find Missing Scripts in the current scene.",
   "author": {
