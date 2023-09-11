@@ -1,0 +1,13 @@
+{
+  "name": "net.narazaka.unity.missing-scripts",
+  "version": "1.0.0",
+  "displayName": "Check Missing Scripts",
+  "description": "Find Missing Scripts in the current scene.",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/CheckMissingScripts.git"
+}
